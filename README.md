@@ -7,5 +7,4 @@ My work focuses on building intelligent systems where **learning algorithms inte
 
 Full portfolio and project demos:
 
-**https://gnath-aswin.github.io**
 
