@@ -5,6 +5,6 @@ Machine Learning Engineer working at the intersection of **reinforcement learnin
 My work focuses on building intelligent systems where **learning algorithms interact with physical environments and engineering simulations** to solve complex design and control problems.
 
 
-Full portfolio and project demos:
+Full portfolio and project demos: https://gnath-aswin.github.io/
 
 
